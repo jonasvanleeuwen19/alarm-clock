@@ -15,3 +15,7 @@
 Just this simple push buttons, i already have too many of them :)
 
 *Standard buzzer*
+
+*Audio Amplifier module:*
+ - https://nl.aliexpress.com/item/1005011740046159.html
+used to play internet radio
